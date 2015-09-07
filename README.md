@@ -1,9 +1,9 @@
 # enigma2-plugin-picons-openatv-MetrixHD-28E
 
-Here you will find Picons in three sizes for Astra 28.2°East.
+Here you will find Picons in three sizes for Astra 28.2°East
 They are desgined to work with:
 
-* OpenATV 4.2 (http://www.opena.tv/) 
+* OpenATV (http://www.opena.tv/)
 * MetrixHD skin is created by iMaxxx http://open-store.net
 
 For the correct display in the **Infobar** the XPicons folder is required!
@@ -25,3 +25,5 @@ The mini size (50x30 32Bit) should be one of the following directories:
 * USB flash drive: / media / usb / picon5030 / (Recommended)
 * HDD: / media / hdd / picon5030 / (may cause longer loading times if the hard drive is in standby.)
 * Internal flash: / usr / share / enigma2 / picon5030 /
+
+The above have been tested using OpenATV version 5.1 on the Amiko SHD-8900 Alien (amikostb.com/?q=product&id=8)
